@@ -1,0 +1,14 @@
+{
+    "name": "AzureBlobStorage_LinkedService",
+    "properties": {
+        "type": "AzureBlobStorage",
+        "typeProperties": {
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=storageprojectend;EndpointSuffix=core.windows.net"
+        },
+        "annotations": [],
+        "connectVia": {
+            "referenceName": "AutoResolveIntegrationRuntime",
+            "type": "IntegrationRuntimeReference"
+        }
+    }
+}

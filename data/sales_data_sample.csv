@@ -1,0 +1,6 @@
+OrderDate,Region,SalesPerson,Model,UnitsSold,Price,Revenue
+2024-01-15,North,Alice,Sedan,10,20000,200000
+2024-02-20,South,Bob,SUV,15,30000,450000
+2024-03-05,East,Charlie,Hatchback,20,15000,300000
+2024-03-15,West,David,SUV,5,32000,160000
+2024-04-10,Central,Eve,Sedan,12,21000,252000
